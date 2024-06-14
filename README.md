@@ -1,4 +1,4 @@
-Example repo for a Compose bug where the Composable is not rendered at all on API 26 if it's clipped to a `Shape` that uses `Outline.Generic`. The 
+Example repo for a Compose bug where the Composable is not rendered at all on API 26 if it's clipped to a `Shape` that uses `Outline.Generic`. In my example the `Path` is not convex. 
 
 with `androidx.compose.ui:ui` version `1.7.0-beta03`
 
